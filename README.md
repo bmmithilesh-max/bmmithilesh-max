@@ -1,8 +1,6 @@
-<div align="center">
-  <h1>Hi, I'm Mithilesh BM 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=650&lines=Cybersecurity+%7C+Software+Development;AI+%7C+Web+Development;Automation+%7C+Data+Analytics;Building+practical+solutions" alt="Typing SVG" />
-</div>
-
+<p align="center">
+  <img src="./assets/github-banner.gif" alt="Mithilesh BM GitHub Banner" width="100%" />
+</p>
 <div align="center">
   <a href="https://github.com/bmmithilesh-max" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-bmmithilesh--max-181717?style=for-the-badge&logo=github" alt="GitHub" />
